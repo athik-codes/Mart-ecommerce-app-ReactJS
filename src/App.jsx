@@ -8,15 +8,15 @@ export default function App() {
   return (
     <div>
       <Header />
-      <Navigation/>
+      <Navigation />
       <Footer />
-<ToastContainer 
-          position="top-right"
-          autoClose={2000}
-          hideProgressBar={false}
-          closeOnClick
-          pauseOnHover
-        />
+      <ToastContainer
+        position="top-right"
+        autoClose={2000}
+        hideProgressBar={false}
+        closeOnClick
+        pauseOnHover
+      />
     </div>
   )
 }
