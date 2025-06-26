@@ -45,9 +45,9 @@ export default function Footer() {
                     <div className="space-y-2 ">
                         <h3 className="text-2xl font-bold ">Contact Us</h3>
                         <div className="text-gray-300 leading-relaxed">
-                            <p>Rayachoty, Annamayya(dist), AP, 516269</p>
-                            <p className="mt-2">Email: poojariprasad630@gmail.com</p>
-                            <p className="mt-2">Phone: +91 6302175923</p>
+                            <p>Kurnool,AP, 518466</p>
+                            <p className="mt-2">Email: shaikathik2003@gmail.com</p>
+                            <p className="mt-2">Phone: +91 9392629503</p>
                         </div>
                     </div>
                 </div>
