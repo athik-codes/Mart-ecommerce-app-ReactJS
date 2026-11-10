@@ -1,3 +1,4 @@
+
 import productImg01 from "../Images/double-sofa-01.png";
 import productImg02 from "../Images/double-sofa-02.png";
 import productImg03 from "../Images/double-sofa-03.png";
@@ -33,7 +34,6 @@ import wireless04 from "../Images/wireless-04.png";
 import sofaSlide from "../Images/hero-img.png";
 import watchSlide from "../Images/watch-07.png";
 
-
 export const discoutProducts = [
   {
     id: "01",
@@ -41,15 +41,15 @@ export const discoutProducts = [
     imgUrl: productImg01,
     category: "sofa",
     price: 193,
-    discount:30,
+    discount: 30,
     shortDesc:
-     "Explore our collection of quality products, carefully selected to bring style, comfort and convenience to your everyday life.",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Discover quality and style with our carefully selected product collection. Designed to complement your everyday needs, our products combine practical functionality with attractive designs. Explore the details and choose the product that suits your lifestyle.",
-       reviews: [
-         {
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
+    reviews: [
+      {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.5,
@@ -60,19 +60,19 @@ export const discoutProducts = [
     imgUrl: productImg02,
     category: "sofa",
     price: 253,
-    discount:20,
+    discount: 20,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -83,19 +83,19 @@ export const discoutProducts = [
     imgUrl: productImg08,
     category: "chair",
     price: 89,
-    discount:15,
+    discount: 15,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -106,19 +106,19 @@ export const discoutProducts = [
     imgUrl: productImg09,
     category: "chair",
     price: 112,
-    discount:35,
+    discount: 35,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -129,19 +129,19 @@ export const discoutProducts = [
     imgUrl: phone03,
     category: "mobile",
     price: 599,
-    discount:10,
+    discount: 10,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
@@ -152,25 +152,24 @@ export const discoutProducts = [
     imgUrl: phone04,
     category: "mobile",
     price: 799,
-    discount:5,
+    discount: 5,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
-]
+];
 
 export const products = [
   {
@@ -180,18 +179,17 @@ export const products = [
     category: "sofa",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.5,
   },
-
   {
     id: "02",
     productName: "Rivet Bigelow Modern ",
@@ -199,22 +197,21 @@ export const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "03",
     productName: "Amazon Brand Modern Sofa",
@@ -222,17 +219,17 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -244,17 +241,17 @@ export const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -266,22 +263,21 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "05",
     productName: "Faux Velvet Sofa",
@@ -289,22 +285,21 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "06",
     productName: "Fllufy Sheep Sofa",
@@ -312,17 +307,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -334,22 +329,21 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "27",
     productName: "Modern Arm Sofa",
@@ -357,22 +351,21 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Bring comfort and modern style to your living room with this elegant sofa.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Create a welcoming living space with a sofa designed to complement your home. Its versatile style makes it suitable for relaxing, spending time with family, or entertaining guests. Check the product images and details to choose the right fit for your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "08",
     productName: "Baltsar Chair",
@@ -380,22 +373,21 @@ export const products = [
     category: "chair",
     price: 89,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "09",
     productName: "Helmar Chair",
@@ -403,22 +395,21 @@ export const products = [
     category: "chair",
     price: 112,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
   },
-
   {
     id: "10",
     productName: "Apple iPhone 12 Pro",
@@ -426,17 +417,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
@@ -448,17 +439,17 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Add comfortable, practical seating to your home or workspace with this stylish chair.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make your room or workspace more inviting with a chair that combines a practical design and everyday comfort. Its versatile look can complement a range of interiors. Review the product images and details to see how it fits your space.",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.7,
@@ -470,22 +461,21 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "12",
     productName: "Realme 8",
@@ -493,22 +483,21 @@ export const products = [
     category: "mobile",
     price: 599,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "13",
     productName: "One Plus Nord",
@@ -516,22 +505,21 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "14",
     productName: "Apple iPhone 13 Pro",
@@ -539,22 +527,21 @@ export const products = [
     category: "mobile",
     price: 899,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "15",
     productName: "Samsung Galaxy S22",
@@ -562,22 +549,21 @@ export const products = [
     category: "mobile",
     price: 699,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Explore smartphone features for everyday communication, browsing and entertainment.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Stay connected throughout the day with a smartphone suited to everyday tasks such as calls, messaging, browsing and entertainment. Check the listed product details and images for the features and design of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "16",
     productName: "Rolex Watch",
@@ -585,22 +571,21 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Complete your everyday look with a timepiece that combines style and practical timekeeping.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Add a finishing touch to your everyday style with a watch designed for convenient timekeeping. Its versatile look can work for daily wear or special occasions. Refer to the product images and listed details for more information about this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "17",
     productName: "Timex Easy Reader Watch",
@@ -608,22 +593,21 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Complete your everyday look with a timepiece that combines style and practical timekeeping.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Add a finishing touch to your everyday style with a watch designed for convenient timekeeping. Its versatile look can work for daily wear or special occasions. Refer to the product images and listed details for more information about this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "18",
     productName: "Rolex Watch",
@@ -631,22 +615,21 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Complete your everyday look with a timepiece that combines style and practical timekeeping.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Add a finishing touch to your everyday style with a watch designed for convenient timekeeping. Its versatile look can work for daily wear or special occasions. Refer to the product images and listed details for more information about this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "19",
     productName: "Apple Watch",
@@ -654,22 +637,21 @@ export const products = [
     category: "watch",
     price: 399,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Complete your everyday look with a timepiece that combines style and practical timekeeping.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Add a finishing touch to your everyday style with a watch designed for convenient timekeeping. Its versatile look can work for daily wear or special occasions. Refer to the product images and listed details for more information about this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "20",
     productName: "Beat Studio Wireless",
@@ -677,22 +659,21 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Enjoy convenient audio listening with headphones designed for everyday use.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make listening to music, videos and other audio more convenient with these headphones. Their everyday-use design makes them a useful audio accessory at home or on the go. Check the product images and listed details for the features of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
   {
     id: "21",
     productName: "Beat EP Headphones",
@@ -700,17 +681,17 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Enjoy convenient audio listening with headphones designed for everyday use.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make listening to music, videos and other audio more convenient with these headphones. Their everyday-use design makes them a useful audio accessory at home or on the go. Check the product images and listed details for the features of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
@@ -722,17 +703,17 @@ export const products = [
     category: "wireless",
     price: 169,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Enjoy convenient audio listening with headphones designed for everyday use.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make listening to music, videos and other audio more convenient with these headphones. Their everyday-use design makes them a useful audio accessory at home or on the go. Check the product images and listed details for the features of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
@@ -744,20 +725,19 @@ export const products = [
     category: "wireless",
     price: 139,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Enjoy convenient audio listening with headphones designed for everyday use.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Make listening to music, videos and other audio more convenient with these headphones. Their everyday-use design makes them a useful audio accessory at home or on the go. Check the product images and listed details for the features of this model.",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Sample review text for demonstration purposes. Replace this with genuine customer feedback when available.",
       },
     ],
     avgRating: 4.8,
   },
-
 ];
