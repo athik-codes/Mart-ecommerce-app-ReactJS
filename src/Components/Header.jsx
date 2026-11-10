@@ -5,31 +5,6 @@ import { CgProfile } from "react-icons/cg";
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
-// export default function Header() {
-//     const cartItems=useSelector((state)=>state.cartItems.cart);
-//     const uniqueCount=cartItems.length
-//     return (
-//         <div className='flex items-center gap-2 cursor-pointer font-bold text-2xl md:text-3xl'>
-//             <Link to="/">
-//             <div className='flex items-center gap-2 cursor-pointer font-bold  text-2xl md:text-4xl'>
-//                 <IoBagHandle />
-//                 <h3>Mart</h3>
-//             </div>
-//             </Link>
-//          <div className='flex flex-wrap items-center cursor-pointer text-base sm:text-lg md:text-xl space-x-3 sm:space-x-5 md:space-x-8 mt-4 md:mt-0'>       
-//                 <Link to="/"><h3>Home</h3></Link>
-//                 <Link to='/shop'><h3>Shop</h3></Link>
-//                 <Link to='/cart'><h3>Cart</h3></Link>
-//                 <h3><CgProfile /></h3>
-//                 <Link to='/cart'><h3><FaShoppingCart /><span className="absolute top-0 right-7 bg-blue-900 text-white text-xs w-7 h-7 flex items-center justify-center rounded-full">{uniqueCount}</span></h3></Link>
-//             </div>
-
-//         </div>
-
-//     )
-// }
-
-
 export default function Header() {
     const cartItems = useSelector((state) => state.cartItems.cart);
     const uniqueCount = cartItems.length;
