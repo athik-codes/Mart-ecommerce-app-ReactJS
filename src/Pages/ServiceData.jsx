@@ -5,25 +5,25 @@ export default function ServiceData() {
     {
       icon: <ion-icon name="car"></ion-icon>,
       title: "Free Shipping",
-      subtitle: "Lorem ipsum dolor sit amet.",
+      subtitle: subtitle: "Free delivery on eligible orders, straight to your doorstep.",
       bg: "#fdefe6",
     },
     {
       icon: <ion-icon name="card"></ion-icon>,
       title: "Safe Payment",
-      subtitle: "Lorem ipsum dolor sit amet.",
+      subtitle: "Enjoy a secure and convenient checkout experience.",
       bg: "#ceebe9",
     },
     {
       icon: <ion-icon name="shield-half-outline"></ion-icon>,
       title: "Secure Payment",
-      subtitle: "Lorem ipsum dolor sit amet.",
+      subtitle: "Your payment details are handled securely during checkout.",
       bg: "#e2f2b2",
     },
     {
       icon: <ion-icon name="headset"></ion-icon>,
       title: "Back Guarantee",
-      subtitle: "Lorem ipsum dolor sit amet.",
+      subtitle: "Shop confidently with our easy return and refund policy.",
       bg: "#d6e5fb",
     },
   ];
