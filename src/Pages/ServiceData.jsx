@@ -5,7 +5,7 @@ export default function ServiceData() {
     {
       icon: <ion-icon name="car"></ion-icon>,
       title: "Free Shipping",
-      subtitle: subtitle: "Free delivery on eligible orders, straight to your doorstep.",
+      subtitle: "Free delivery on eligible orders, straight to your doorstep.",
       bg: "#fdefe6",
     },
     {
