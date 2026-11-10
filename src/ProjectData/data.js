@@ -45,8 +45,9 @@ export const discoutProducts = [
     shortDesc:
      "Explore our collection of quality products, carefully selected to bring style, comfort and convenience to your everyday life.",
     description:
-      "Discover quality and style with our carefully selected product collection. Designed to complement your everyday needs, our products combine practical functionality with attractive designs. Explore the details and choose the product that suits your lifestyle.", [
-      {
+      "Discover quality and style with our carefully selected product collection. Designed to complement your everyday needs, our products combine practical functionality with attractive designs. Explore the details and choose the product that suits your lifestyle.",
+       reviews: [
+         {
         rating: 4.7,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
