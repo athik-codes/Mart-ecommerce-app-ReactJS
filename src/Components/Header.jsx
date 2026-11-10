@@ -9,14 +9,14 @@ export default function Header() {
     const cartItems=useSelector((state)=>state.cartItems.cart);
     const uniqueCount=cartItems.length
     return (
-        <div className='flex items-center gap-2 cursor-pointer font-bold text-3xl md:text-5xl'>
+        <div className='flex items-center gap-2 cursor-pointer font-bold text-2xl md:text-3xl'>
             <Link to="/">
             <div className='flex items-center gap-2 cursor-pointer font-bold  text-2xl md:text-4xl'>
                 <IoBagHandle />
                 <h3>Mart</h3>
             </div>
             </Link>
-          <div className='flex flex-wrap items-center cursor-pointer text-base sm:text-lg md:text-xl space-x-4 sm:space-x-6 md:space-x-10 mt-4 md:mt-0'>         
+         <div className='flex flex-wrap items-center cursor-pointer text-base sm:text-lg md:text-xl space-x-3 sm:space-x-5 md:space-x-8 mt-4 md:mt-0'>       
                 <Link to="/"><h3>Home</h3></Link>
                 <Link to='/shop'><h3>Shop</h3></Link>
                 <Link to='/cart'><h3>Cart</h3></Link>
