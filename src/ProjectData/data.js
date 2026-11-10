@@ -43,10 +43,9 @@ export const discoutProducts = [
     price: 193,
     discount:30,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+     "Explore our collection of quality products, carefully selected to bring style, comfort and convenience to your everyday life.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
+      "Discover quality and style with our carefully selected product collection. Designed to complement your everyday needs, our products combine practical functionality with attractive designs. Explore the details and choose the product that suits your lifestyle." [
       {
         rating: 4.7,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
