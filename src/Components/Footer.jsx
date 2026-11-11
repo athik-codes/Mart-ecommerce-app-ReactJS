@@ -15,7 +15,7 @@ export default function Footer() {
                         <p className="text-gray-400 leading-relaxed">
                           
                           Welcome to Mart, your one-stop destination for quality products at great prices. Explore our latest collections and enjoy a simple, convenient shopping experience.
-                
+                        </p>
                     </div>
 
                     {/* About Us */}
