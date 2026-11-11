@@ -13,8 +13,9 @@ export default function Footer() {
                             <h3 className="text-3xl font-bold">Mart</h3>
                         </div>
                         <p className="text-gray-400 leading-relaxed">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, nihil itaque. Laboriosam saepe non ut, provident aspernatur necessitatibus laborum expedita explicabo iusto cum quos soluta ullam illum blanditiis quam cumque.
-                        </p>
+                          
+                          Welcome to Mart, your one-stop destination for quality products at great prices. Explore our latest collections and enjoy a simple, convenient shopping experience.
+                
                     </div>
 
                     {/* About Us */}
